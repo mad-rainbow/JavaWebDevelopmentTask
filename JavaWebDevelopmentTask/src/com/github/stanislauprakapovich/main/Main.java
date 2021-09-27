@@ -7,10 +7,8 @@ import com.github.stanislauprakapovich.model.Freight;
 import com.github.stanislauprakapovich.model.Locomotive;
 import com.github.stanislauprakapovich.model.Passenger;
 import com.github.stanislauprakapovich.model.Train;
-import com.github.stanislauprakapovich.model.Vehicle;
 import com.github.stanislauprakapovich.parser.Parser;
 import com.github.stanislauprakapovich.textoutput.TextOutput;
-import com.github.stanislauprakapovich.xmlencoder.XMLExporter;
 
 public class Main {
 
