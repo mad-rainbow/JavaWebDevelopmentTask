@@ -7,7 +7,6 @@ import com.github.stanislauprakapovich.model.Freight;
 import com.github.stanislauprakapovich.model.Locomotive;
 import com.github.stanislauprakapovich.model.Passenger;
 import com.github.stanislauprakapovich.model.Train;
-import com.github.stanislauprakapovich.model.Vehicle;
 
 public class Assembler {
 
