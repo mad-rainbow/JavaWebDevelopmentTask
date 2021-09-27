@@ -1,0 +1,40 @@
+Train No. 1, Capacity: 1100 tons
+Locomotive No.1, Capacity: 1250 tons
+Freight No.6, Capacity: 200 tons
+Freight No.7, Capacity: 200 tons
+Freight No.8, Capacity: 240 tons
+Freight No.9, Capacity: 240 tons
+Freight No.10, Capacity: 220 tons
+
+Train No. 2, Capacity: 1240 tons
+Locomotive No.2, Capacity: 1350 tons
+Freight No.11, Capacity: 300 tons
+Freight No.12, Capacity: 360 tons
+Freight No.13, Capacity: 230 tons
+Freight No.14, Capacity: 160 tons
+Freight No.15, Capacity: 190 tons
+
+Train No. 3, Capacity: 1050 tons
+Locomotive No.3, Capacity: 1100 tons
+Freight No.16, Capacity: 240 tons
+Freight No.17, Capacity: 170 tons
+Freight No.18, Capacity: 180 tons
+Freight No.19, Capacity: 220 tons
+Freight No.20, Capacity: 240 tons
+
+Train No. 4, Capacity: 350 seats
+Locomotive No.4, Capacity: 30 tons
+Passenger No.21, Capacity: 80 seats
+Passenger No.22, Capacity: 90 seats
+Passenger No.23, Capacity: 100 seats
+Passenger No.24, Capacity: 80 seats
+
+Train No. 5, Capacity: 540 seats
+Locomotive No.5, Capacity: 40 tons
+Passenger No.25, Capacity: 70 seats
+Passenger No.26, Capacity: 90 seats
+Passenger No.27, Capacity: 100 seats
+Passenger No.28, Capacity: 90 seats
+Passenger No.29, Capacity: 90 seats
+Passenger No.30, Capacity: 100 seats
+
