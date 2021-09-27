@@ -1,8 +1,6 @@
 package com.github.stanislauprakapovich.parser;
 
 import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -17,7 +15,6 @@ import com.github.stanislauprakapovich.model.Freight;
 import com.github.stanislauprakapovich.model.Locomotive;
 import com.github.stanislauprakapovich.model.Passenger;
 import com.github.stanislauprakapovich.model.Root;
-import com.github.stanislauprakapovich.model.Vehicle;
 
 public class Parser {
 
